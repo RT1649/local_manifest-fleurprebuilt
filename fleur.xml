@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="ghub"
+        fetch="https://github.com" />
+
+<!-- DT -->
+<project path="device/xiaomi/fleur" name="RT1648/android_device_xiaomi_fleur" remote="ghub" revision="lineage-20.0"/>
+<!-- VT -->
+<project path="vendor/xiaomi/fleur" name="RT1648/android_vendor_xiaomi_fleur" remote="ghub" revision="13"/>
+<!-- FW -->
+<project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.4.0.TKEMIXM"/>
+<!-- HW -->
+<project path="hardware/mediatek" name="RT1648/android_hardware_mediatek" remote="ghub" revision="lineage-20"/>
+<!-- Sepolicy -->
+<project path="device/mediatek/sepolicy_vndr" name="RT1648/android_device_mediatek_sepolicy_vndr" remote="ghub" revision="lineage-20"/>
+</manifest>
