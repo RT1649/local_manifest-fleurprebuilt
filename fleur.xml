@@ -8,6 +8,8 @@
 <project path="device/xiaomi/fleur" name="RT1648/android_device_xiaomi_fleur" remote="ghub" revision="lineage-20.0"/>
 <!-- VT -->
 <project path="vendor/xiaomi/fleur" name="RT1648/android_vendor_xiaomi_fleur" remote="ghub" revision="13"/>
+<!-- DT -->
+<project path="device/xiaomi/fleur-kernel" name="RT1648/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0"/>
 <!-- FW -->
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.4.0.TKEMIXM"/>
 <!-- HW -->
