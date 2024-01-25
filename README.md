@@ -1,6 +1,6 @@
 ## Download
 ```bash
-curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/RT1648/local_manifest-fleuross/main/fleur.xml --create-dirs
+curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/RT1648/local_manifest-fleurprebuilt/master/fleur.xml --create-dirs
 ```
 ## Sync
 ```bash
