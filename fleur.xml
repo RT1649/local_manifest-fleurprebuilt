@@ -3,7 +3,8 @@
 
 <remote name="ghub"
         fetch="https://github.com" />
-
+<remote name="glab" 
+        fetch="https://gitlab.com" />
 <!-- DT -->
 <project path="device/xiaomi/fleur" name="RT1648/device_xiaomi_fleur" remote="ghub" revision="13.0"/>
 <!-- VT -->
@@ -14,4 +15,6 @@
 <project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM"/>
 <!-- HW -->
 <project path="hardware/mediatek" name="RT1648/hardware_mediatek" remote="ghub" revision="13.0"/>
+<!-- GMS -->
+<project path="vendor/gapps" name="RT1648/android_vendor_gapps" remote="glab" revision="13.0"/>
 </manifest>
