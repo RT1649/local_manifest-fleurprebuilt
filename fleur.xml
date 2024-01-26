@@ -17,4 +17,4 @@
 <project path="hardware/mediatek" name="RT1648/hardware_mediatek" remote="ghub" revision="13.0"/>
 <!-- Sepolicy -->
 <project path="device/mediatek/sepolicy_vndr" name="ArrowOS/android_device_mediatek_sepolicy_vndr" remote="ghub" revision="arrow-13.1"/>
-<manifest>
+</manifest>
