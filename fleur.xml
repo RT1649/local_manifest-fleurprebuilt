@@ -12,9 +12,5 @@
 <!-- KT -->
 <project path="device/xiaomi/fleur-kernel" name="RT1648/android_device_xiaomi_fleur-kernel" remote="ghub" revision="lineage-20.0"/>
 <!-- FW -->
-<project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="13.0.9.0.SKEMIXM"/>
-<!-- HW -->
-<project path="hardware/mediatek" name="RT1648/hardware_mediatek" remote="ghub" revision="13.0"/>
-<!-- Sepolicy -->
-<project path="device/mediatek/sepolicy_vndr" name="ArrowOS/android_device_mediatek_sepolicy_vndr" remote="ghub" revision="arrow-13.1"/>
+<project path="vendor/xiaomi/fleur-firmware" name="RT1648/vendor_xiaomi_fleur-firmware" remote="ghub" revision="14.0.4.0.TKEMIXM"/>
 </manifest>
